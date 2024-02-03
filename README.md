@@ -3,7 +3,7 @@
 ## Introduction 
 A data challenge hosted by a vibrant data community involving the analysis of the year sales perfomance of an online gadget store requiring participants to clean, explore, model, and analyze the dataset provided in order to solve the business problems presented
 
-I leveraged my data wrangling skill using SQL to clean, explore, analyze and prepare the dataset for visualization in tableau; while also leveraging my visualization skill in tableau to build an interactive dashboard to allow for hands on relating with the data to aid understanding the data findings
+I leveraged my data wrangling skill using SQL to clean, explore, analyze and prepare the dataset for visualization in tableau; while also leveraging my visualization skill in tableau to build an interactive dashboard to allow for hands on interacting with the data to aid understanding the data findings
 
 This business analysis not only showcased my analytical skills but also allowed me to connect data intricacies to real-world business challenges, enhancing my proficiency in Business Intelligence.
 
